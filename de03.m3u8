@@ -1,3 +1,6 @@
 #EXTM3U
+#EXT-X-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=3564000
 https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=ae05dd3bb7ff80e341d90a7edea2237a5be7fc1d-e1-1723697555-1723661555
+#EXT-X-STREAM-INF:BANDWIDTH=3564000
+https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=da4016cdfa18e1d7987cca9d22b0b5f6edd37afb-78-1723718500-1723682500
