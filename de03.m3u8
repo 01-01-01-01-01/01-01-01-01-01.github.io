@@ -1,10 +1,12 @@
-#EXTM3U1
+#EXTM3U4
 #EXT-X-VERSION:4
 #EXT-X-STREAM-INF:BANDWIDTH=3564000
-https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=699f307c3bac5d7b0ba760ab88b798a86f9999c7-7f-1723861434-1723825434
+https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=aec1b1e5eff906aa4333ef762629bcd79d8c3662-1a-1723876328-1723840328
+#EXT-X-STREAM-INF:BANDWIDTH=3000000
+https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=3a5f2409c6644b3847e704b0a34358574de3af71-9d-1723890685-1723854685
 #EXT-X-STREAM-INF:BANDWIDTH=1964000
-https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=da4016cdfa18e1d7987cca9d22b0b5f6edd37afb-78-1723718500-1723682500
+https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=8969a941f3876833683f207a82a07321d496598f-e5-1723894561-1723858561
 #EXT-X-STREAM-INF:BANDWIDTH=1464000
-https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=b4b0f75ea35d45d7cd32d36fa987c1c4fda8c478-71-1723719757-1723683757
+https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=7499ae6ca7dc9dabd1a1c156e833de16668c157e-17-1723875416-1723839416
 #EXT-X-STREAM-INF:BANDWIDTH=1064000
 https://cos1.pricesaskeloadsc.com/tudn_usa/tracks-v1a1/mono.m3u8?token=f06bbd8d68fca758175b8fcd2171c37cba386809-17-1723719855-1723683855
