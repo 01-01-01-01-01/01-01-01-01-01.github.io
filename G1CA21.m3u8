@@ -2,7 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-TARGETDURATION:3
-#EXT-X-MEDIA-SEQUENCE:30
 #EXTINF:2.432,
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:2.509,
