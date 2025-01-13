@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:176
+#EXTINF:0.841,
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXTINF:0.832,
+https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
