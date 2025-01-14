@@ -1,5 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=150000,CODECS="avc1.42e00a,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=150000
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=150000
 https://ssh101-fl.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=240000,CODECS="avc1.42e00a,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=240000
 https://tls-cl.cdnz.cl/planetatvcine/live/playlist.m3u8
