@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=3764000
-https://cors-proxy.cooks.fyi/http://cdnexterno.thomas-talk.me:8081/externo/canal_hbo/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3664000
 http://cdnexterno.thomas-talk.me:8081/externo/canal_hbo/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3664000
+https://cors-proxy.cooks.fyi/http://cdnexterno.thomas-talk.me:8081/externo/canal_hbo/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3564000
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10279.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3400000
