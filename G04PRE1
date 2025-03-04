@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+https://cors-proxy.cooks.fyi/http://190.109.31.53:9000/play/a05c/index.m3u8
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000
+http://190.109.31.53:9000/play/a05c/index.m3u8
