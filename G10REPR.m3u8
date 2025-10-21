@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=3564000
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+https://u65r.futebol12.nexus/calientetv1/tracks-v1a1/mono.ts.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
 #EXT-X-STREAM-INF:BANDWIDTH=3000000
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+https://u65r.futebol12.nexus/calientetv2/tracks-v1a1/mono.ts.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
+#EXT-X-STREAM-INF:BANDWIDTH=2000000
+https://u65r.futebol12.nexus/calientetv3/tracks-v1a1/mono.ts.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
+#EXT-X-STREAM-INF:BANDWIDTH=1000000
+https://u65r.futebol12.nexus/calientetv4/tracks-v1a1/mono.ts.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
